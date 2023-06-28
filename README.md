@@ -19,9 +19,10 @@ java BinarySearch
 -If the element is not found, it will print "Element not found".
 
 ##Example
-
+```
 Enter a list of numbers: 5,12,17,23,29,33,41,56,62,78,89
 
 Enter the number you want to search for: 33
 
 Element found at index 5
+```
